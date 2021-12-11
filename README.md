@@ -1,5 +1,5 @@
 **ABOUT**
-
+<br>
 For those who are wondering where did the time go today, this is the app for you .
 Pause is a potential launcher phone tracker app developed and designed to improve and
 systamise one’s productivity flow hence improving the efficiency of the workflow for any user
@@ -10,6 +10,7 @@ your phone .What's cool is that you can even earn incentives .
 <br>
 
 **PROBLEM SOLVED**
+<br>
 The simple fact is that work from the home experiment has been a huge success. But "the
 new normal " environment has become a hot topic for many organizations and how will this
 affect productivity and employee’s well being , so pause is a solution for that .
@@ -19,6 +20,7 @@ enough, this app will also tell you how addicted you are to your phone as we wan
 productive and adapt easily to "The New Normal" environment .
 <br>
 **FUNCTIONING**
+<br>
 The core functioning of this app is based on “tracking”. It helps you manage the time you
 spend on your smartphone and fight phone addiction.
 It seems counterintuitive to use an app to unplug, but in an age where we use our phones for
@@ -35,6 +37,7 @@ Not only companies, It can be used by parents to make their children be more foc
 towards study and they can fund children's pocket money in it.
 <br>
 **USE CASES OR OBJECTIVE**
+<br>
 Pause helps you :
 a) Beat Phone Addiction
 b) Stay Focused
@@ -45,7 +48,9 @@ f) Boost Productivity
 g) Increase Your Digital Well-Being
 h) Reduce Wastage Of Time
 i) Earn incentives
+<br>
 **FEATURES**
+<br>
 1) Easy multi-user interface.
 2) Has a Dashboard that provides all essential information at one place.
 3) Tracks your device’s usage .
@@ -54,14 +59,16 @@ i) Earn incentives
 6) Shows Most used Apps
 7) Device and app usage analytics over time
 8) You get to earn incentives which will be transferred in your bank account .
-9) <br>
+<br>
 **CONCLUSION**
+<br>
 ● Pause is a Smart Digital Solution to achieve digital wellness.
 ● Pause is more than just an app usage tracker , it's a productivity tool and your
 personal helper .
 This makes Pause a proper phone tracker app
 <br>
 **SCREENSHOTS**
+<br>
 ![5](https://user-images.githubusercontent.com/56164789/145678784-d450dc67-1871-461d-b863-22a7c84970d9.png)
 ![10](https://user-images.githubusercontent.com/56164789/145678792-cb64333d-a784-4bc2-b11c-6bad8eb46a27.png)
 ![9](https://user-images.githubusercontent.com/56164789/145678794-451370c3-b85a-47d9-9b0c-3624a679409f.png)
