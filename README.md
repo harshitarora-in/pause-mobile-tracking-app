@@ -66,7 +66,9 @@ i) Earn incentives
 7) Device and app usage analytics over time
 8) You get to earn incentives which will be transferred in your bank account .
 <br>
+
 **CONCLUSION**
+
 <br>
 ● Pause is a Smart Digital Solution to achieve digital wellness.
 <br>
@@ -75,7 +77,9 @@ personal helper .
 <br>
 This makes Pause a proper phone tracker app
 <br>
+
 **SCREENSHOTS**
+
 <br>
 ![5](https://user-images.githubusercontent.com/56164789/145678784-d450dc67-1871-461d-b863-22a7c84970d9.png)
 ![10](https://user-images.githubusercontent.com/56164789/145678792-cb64333d-a784-4bc2-b11c-6bad8eb46a27.png)
