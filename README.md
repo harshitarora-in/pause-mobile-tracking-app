@@ -8,6 +8,7 @@ Pause adapts your device’s usage and will show you the number of hours you hav
 your phone .What's cool is that you can even earn incentives .
 
 <br>
+
 **PROBLEM SOLVED**
 The simple fact is that work from the home experiment has been a huge success. But "the
 new normal " environment has become a hot topic for many organizations and how will this
@@ -32,6 +33,7 @@ It can be used by companies so that employees can focus on their work, companies
 funds in the employee's account and they can get incentives
 Not only companies, It can be used by parents to make their children be more focused
 towards study and they can fund children's pocket money in it.
+<br>
 **USE CASES OR OBJECTIVE**
 Pause helps you :
 a) Beat Phone Addiction
@@ -52,12 +54,13 @@ i) Earn incentives
 6) Shows Most used Apps
 7) Device and app usage analytics over time
 8) You get to earn incentives which will be transferred in your bank account .
+9) <br>
 **CONCLUSION**
 ● Pause is a Smart Digital Solution to achieve digital wellness.
 ● Pause is more than just an app usage tracker , it's a productivity tool and your
 personal helper .
 This makes Pause a proper phone tracker app
-
+<br>
 **SCREENSHOTS**
 ![5](https://user-images.githubusercontent.com/56164789/145678784-d450dc67-1871-461d-b863-22a7c84970d9.png)
 ![10](https://user-images.githubusercontent.com/56164789/145678792-cb64333d-a784-4bc2-b11c-6bad8eb46a27.png)
