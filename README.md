@@ -81,9 +81,9 @@ This makes Pause a proper phone tracker app
 **SCREENSHOTS**
 
 <br>
-![5](https://user-images.githubusercontent.com/56164789/145678784-d450dc67-1871-461d-b863-22a7c84970d9.png)
-![10](https://user-images.githubusercontent.com/56164789/145678792-cb64333d-a784-4bc2-b11c-6bad8eb46a27.png)
-![9](https://user-images.githubusercontent.com/56164789/145678794-451370c3-b85a-47d9-9b0c-3624a679409f.png)
-![8](https://user-images.githubusercontent.com/56164789/145678795-650d541a-ff66-41eb-83e3-034893413e49.png)
-![7](https://user-images.githubusercontent.com/56164789/145678796-03a29467-fb32-414f-b92f-9745166364e1.png)
-![6](https://user-images.githubusercontent.com/56164789/145678797-bd67e703-e1c7-4641-b774-279d92cc78a4.png)
+![10](https://user-images.githubusercontent.com/56164789/145679133-0f8d8ec8-8e16-485f-baa6-be0e8a6c4d49.png)
+![9](https://user-images.githubusercontent.com/56164789/145679138-ca96f50a-a09f-49f9-a83b-da715f983755.png)
+![8](https://user-images.githubusercontent.com/56164789/145679139-423d17bd-7fe7-40ba-b4f5-a806295b4573.png)
+![7](https://user-images.githubusercontent.com/56164789/145679141-fd06f6fa-1311-4f5d-bb69-b08106a495fd.png)
+![6](https://user-images.githubusercontent.com/56164789/145679142-fecb1152-74f5-4103-922a-fe153c82b345.png)
+![5](https://user-images.githubusercontent.com/56164789/145679143-21ad0438-15ee-499b-8ad1-359fbff30f06.png)
