@@ -6,9 +6,7 @@ systamise one’s productivity flow hence improving the efficiency of the workfl
 or employee to get more focused on their work in the “ New Normal ” environment.
 Pause adapts your device’s usage and will show you the number of hours you have spent on
 your phone .What's cool is that you can even earn incentives .
-
 <br>
-
 **PROBLEM SOLVED**
 <br>
 The simple fact is that work from the home experiment has been a huge success. But "the
@@ -63,8 +61,10 @@ i) Earn incentives
 **CONCLUSION**
 <br>
 ● Pause is a Smart Digital Solution to achieve digital wellness.
+<br>
 ● Pause is more than just an app usage tracker , it's a productivity tool and your
 personal helper .
+<br>
 This makes Pause a proper phone tracker app
 <br>
 **SCREENSHOTS**
