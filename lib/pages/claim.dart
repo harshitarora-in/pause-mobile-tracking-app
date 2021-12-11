@@ -42,6 +42,7 @@ class _ClaimState extends State<Claim> {
     _airtableDate = _response['records'][2]['fields']['date'];
     await usageMethods.getDailyUsageStats();
     _dailyHours = usageMethods.totalDailyHours;
+    await usageMethods.getWeeklyUsageStats();
     _weeklyHours = usageMethods.totalWeeklyHours;
     setState(() {
       _points;

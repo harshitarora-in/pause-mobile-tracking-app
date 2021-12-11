@@ -35,7 +35,7 @@ class UsageMethods {
     totalDailyMins = 0;
     try {
       DateTime endDate = DateTime.now();
-      DateTime startDate = endDate.subtract(const Duration(hours: 1));
+      DateTime startDate = endDate.subtract(const Duration(hours: 12));
       dailyInfos = await AppUsage.getAppUsage(startDate, endDate);
       for (int i = 0; i < dailyInfos.length; i++) {
         totalDailyMins = totalDailyMins + dailyInfos[i].usage.inMinutes.toInt();

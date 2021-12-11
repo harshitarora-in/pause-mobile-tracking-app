@@ -27,7 +27,6 @@ class _HomePageState extends State<HomePage> {
   @override
   void initState() {
     asyncInit();
-
     super.initState();
   }
 
@@ -147,11 +146,34 @@ class _HomePageState extends State<HomePage> {
                     child: Row(
                       mainAxisAlignment: MainAxisAlignment.spaceAround,
                       children: [
-                        Text(_usage.toStringAsFixed(2) + "\nHours",
-                            style: GoogleFonts.inter(
-                                color: Colors.white,
-                                fontSize: 36,
-                                fontWeight: FontWeight.w600)),
+                        Column(
+                          mainAxisAlignment: MainAxisAlignment.center,
+                          crossAxisAlignment: CrossAxisAlignment.start,
+                          children: [
+                            Text(_usage.toStringAsFixed(2) + "\nHours",
+                                style: GoogleFonts.inter(
+                                    color: Colors.white,
+                                    fontSize: 36,
+                                    fontWeight: FontWeight.w600)),
+                            const SizedBox(
+                              height: 8,
+                            ),
+                            GestureDetector(
+                              onTap: () {
+                                initState();
+                              },
+                              child: Padding(
+                                padding: const EdgeInsets.only(left: 4.0),
+                                child: Text("Click to refresh",
+                                    style: GoogleFonts.inter(
+                                      color: Colors.white,
+                                      fontSize: 12,
+                                      fontWeight: FontWeight.w500,
+                                    )),
+                              ),
+                            ),
+                          ],
+                        ),
                         const SizedBox(width: 15),
                         Image.asset(
                           "assets/images/headphone.png",
