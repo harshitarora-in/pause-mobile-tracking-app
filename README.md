@@ -1,3 +1,9 @@
+**YOU NEED TO GRANT PERMISSION TO THIS APP TO USE IT PROPERLY SO DO NOT FORGOT TO DO THAT.**
+
+CREDENTIALS TO REDEEM POINTS:(It will be for demo purpose only as the amount will be deducted from the razorpay test balance.)
+EMAIL: harshit@gmail.com
+PASSWORD: razorpay
+
 **ABOUT**
 <br>
 For those who are wondering where did the time go today, this is the app for you .
@@ -78,6 +84,10 @@ personal helper .
 This makes Pause a proper phone tracker app
 <br>
 <br>
+
+**FUTURE SCOPE**
+Currently for this MVP we only support single user and we donot support custom sign in sign up. so in future we will add Sign in and sign up, for now usage limit is 15 hr per day in future we will give user full customization options.
+
 **SCREENSHOTS**
 
 <br>
