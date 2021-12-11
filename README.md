@@ -77,7 +77,7 @@ personal helper .
 <br>
 This makes Pause a proper phone tracker app
 <br>
-
+<br>
 **SCREENSHOTS**
 
 <br>
