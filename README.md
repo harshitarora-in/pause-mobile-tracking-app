@@ -6,6 +6,8 @@ systamise one’s productivity flow hence improving the efficiency of the workfl
 or employee to get more focused on their work in the “ New Normal ” environment.
 Pause adapts your device’s usage and will show you the number of hours you have spent on
 your phone .What's cool is that you can even earn incentives .
+
+<br>
 **PROBLEM SOLVED**
 The simple fact is that work from the home experiment has been a huge success. But "the
 new normal " environment has become a hot topic for many organizations and how will this
@@ -14,6 +16,7 @@ With pause you can now track how much time you spent on your phone, you can also
 time spent on each app, what's more, pause also lets you earn rewards and if that wasn't
 enough, this app will also tell you how addicted you are to your phone as we want you to be
 productive and adapt easily to "The New Normal" environment .
+<br>
 **FUNCTIONING**
 The core functioning of this app is based on “tracking”. It helps you manage the time you
 spend on your smartphone and fight phone addiction.
