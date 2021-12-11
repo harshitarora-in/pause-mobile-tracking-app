@@ -38,13 +38,21 @@ towards study and they can fund children's pocket money in it.
 <br>
 Pause helps you :
 a) Beat Phone Addiction
+<br>
 b) Stay Focused
+<br>
 c) Teach Self-Control
+<br>
 d) Reduce screen time
+<br>
 e) Reduces Distraction
+<br>
 f) Boost Productivity
+<br>
 g) Increase Your Digital Well-Being
+<br>
 h) Reduce Wastage Of Time
+<br>
 i) Earn incentives
 <br>
 **FEATURES**
